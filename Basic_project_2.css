@@ -1,0 +1,57 @@
+body{
+    background-color: beige;
+    padding: 50px;
+    margin: 100px 350px;
+    border: 10px solid grey;
+}
+#main_page{
+    height:400px ;
+
+}
+#pixel_6{
+    background-image: linear-gradient(to bottom left, rgb(247, 243, 243), rgb(115, 255, 0));
+
+}
+
+.card{
+    background-color: beige;
+    margin:10px;
+    padding: 1%;
+    border: none;
+    background: none;
+    border-radius: 3px;
+ }
+ #minus{
+     left: 8%;
+ }
+ #minus2
+ {
+  left: 8%;
+}
+ #count{
+    left: 5%;
+    width: 30px;
+    
+ }
+ #count2{
+  left: 5%;
+  width: 30px;
+  
+}
+ .counter{
+     border-radius: 2px;
+ }
+#oneplus_10{
+margin-top: 5%;
+background-image: linear-gradient(to bottom right, rgb(231, 186, 186), yellow);
+
+}  
+
+  #bill{
+    background-image: linear-gradient(to bottom right, rgb(205, 236, 119), yellow);
+    margin-top: 7%;
+    padding: 2%;
+  }
+  .checkout{
+    margin-top: 9%; 
+  }
